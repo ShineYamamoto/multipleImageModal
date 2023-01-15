@@ -1,0 +1,25 @@
+
+
+section {
+    display: block;
+    position: relative;
+    width: 80%;
+    margin: 20px auto;
+    
+}
+
+.box {
+    position: relative;
+    display: flex;
+    margin: 20px 0;
+    background: #e3e3e3;
+}
+
+.box .box_img {
+    width: 40%;
+    margin: 40px 20px;
+}
+
+section #copy_box {
+    background: #ecbadd;
+}
