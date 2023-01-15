@@ -3,7 +3,7 @@
 section {
     display: block;
     position: relative;
-    width: 40%;
+    width: 90%;
     margin: 20px auto;
     
 }
@@ -16,8 +16,10 @@ section {
 }
 
 .box .box_img {
-    width: 40%;
-    margin: 40px 20px;
+    height: 150px;
+    padding: 20px 20px;
+    margin: 20px auto;
+    background: #a3a3a3;
 }
 
 section #copy_box {
